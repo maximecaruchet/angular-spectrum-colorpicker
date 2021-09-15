@@ -1,3 +1,8 @@
+# Disclaimer
+
+This is a backup for https://github.com/Jimdo/angular-spectrum-colorpicker.git#1.4.5
+This is a backup of the bower package `angular-spectrum-colorpicker` which does not exist anymore on github
+
 Angular Spectrum Colorpicker
 ============================
 
